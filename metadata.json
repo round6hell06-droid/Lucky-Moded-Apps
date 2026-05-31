@@ -1,0 +1,6 @@
+{
+  "name": "Lucky Moded Apps",
+  "description": "A dark futuristic app distribution platform for modified applications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
